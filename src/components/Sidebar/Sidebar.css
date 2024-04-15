@@ -5,13 +5,11 @@
     justify-content: space-between;
     background-color: #f0f4f9;
     padding: 25px 15px;
-    width: 80px;
-    transition: width 0.5s ease;
 }
 
-.sidebar.extended{
+/* .sidebar.extended{
     width: 200px;
-}
+} */
 
 .sidebar img{
     width: 20px;
